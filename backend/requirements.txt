@@ -1,0 +1,14 @@
+Django>=4.2
+djangorestframework>=3.14
+psycopg2-binary>=2.9
+gunicorn
+django-cors-headers
+django-environ
+geographiclib
+Pillow
+numpy
+scikit-learn
+geopandas
+shapely
+django-rest-framework-gis>=0.18.0
+django-filter
