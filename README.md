@@ -1,4 +1,4 @@
-# ????️ भू-DHAARA – Rainwater Survey and
+#  भू-DHAARA – Rainwater Survey and
 
 [![Hackathon](https://img.shields.io/badge/Smart%20India%20Hackathon-2025-blue.svg)]()
 [![
@@ -9,25 +9,25 @@
 
 ---
 
-## ???? Problem Statement
+##  Problem Statement
 Given
 - **Title:** Design and development of an application for on-site RTRWH & Artificial Recharge evaluation.
 - **Challenge:** Available are no **intuitive web platforms** to evaluate on-site rooftop rainwater harvesting potential.
 
 ---
 
-## ???? Solution
+##  Solution
 We
 भू-DHAARA provides:
-- ????️ **Rooftop selection from map** with rainfall and groundwater data.
-- ???? **Machine Learning-based feasibility reports** incorporating a cost–benef.
-- ???? **Automatically generated PDF reports** for offline viewing.
-- ???? **Multilingual support** for inclusivity.
-- ???? **OTP-protected access** to ensure data security.
+-  **Rooftop selection from map** with rainfall and groundwater data.
+-  **Machine Learning-based feasibility reports** incorporating a cost–benef.
+-  **Automatically generated PDF reports** for offline viewing.
+-  **Multilingual support** for inclusivity.
+-  **OTP-protected access** to ensure data security.
 
 ---
 
-## ????️ Tech Stack
+##  Tech Stack
 
 | Layer        | Technologies Used |
 |---------------
@@ -48,12 +48,12 @@ We
 
 ---
 
-## ???? Effect
+##  Effect
 
-**???? Environmental** – Conservation of water, being resistant to drought, climatic
+** Environmental** – Conservation of water, being resistant to drought, climatic
 
-**???? Social** – Makes rainfall harvesting usual and essential
+** Social** – Makes rainfall harvesting usual and essential
 
-**???? Practical** – Reduced off-farm supply dependence, RBF sustainability
+** Practical** – Reduced off-farm supply dependence, RBF sustainability
 
---- ## ???? A Step-by- Clone this repository: #./ git add.  cd <repo-name
+--- ##  A Step-by- Clone this repository: #./ git add.  cd <repo-name
